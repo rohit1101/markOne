@@ -1,0 +1,22 @@
+{
+  "name": "markone",
+  "version": "1.0.0",
+  "description": "markOne project for neoG 2023",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
